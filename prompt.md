@@ -174,3 +174,7 @@ pass on the output to the next agent  : the code who will desgin the the offerin
 ==============================================================
 
 plz handover your work to nthe next agent for sales copy / marketing /seo polish to the marketing agent
+
+==============================================================
+
+surprise me with the best you can do as for the html code
